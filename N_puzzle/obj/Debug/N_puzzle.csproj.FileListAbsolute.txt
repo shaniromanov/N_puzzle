@@ -1,0 +1,10 @@
+C:\Users\i5\Desktop\N_puzzle\N_puzzle\bin\Debug\N_puzzle.exe.config
+C:\Users\i5\Desktop\N_puzzle\N_puzzle\bin\Debug\N_puzzle.exe
+C:\Users\i5\Desktop\N_puzzle\N_puzzle\bin\Debug\N_puzzle.pdb
+C:\Users\i5\Desktop\N_puzzle\N_puzzle\obj\Debug\N_puzzle.csprojAssemblyReference.cache
+C:\Users\i5\Desktop\N_puzzle\N_puzzle\obj\Debug\N_puzzle.csproj.CoreCompileInputs.cache
+C:\Users\i5\Desktop\N_puzzle\N_puzzle\obj\Debug\N_puzzle.exe
+C:\Users\i5\Desktop\N_puzzle\N_puzzle\obj\Debug\N_puzzle.pdb
+C:\Users\User\Desktop\N_puzzle\N_puzzle\bin\Debug\N_puzzle.exe.config
+C:\Users\User\Desktop\N_puzzle\N_puzzle\obj\Debug\N_puzzle.exe
+C:\Users\User\Desktop\N_puzzle\N_puzzle\obj\Debug\N_puzzle.pdb

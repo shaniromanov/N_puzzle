@@ -12,6 +12,6 @@ namespace N_puzzle
         public Node Parent { get; }
         public Direction Direction { get; }
 
-     
+     //
     }
 }
